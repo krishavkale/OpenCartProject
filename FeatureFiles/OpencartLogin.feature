@@ -19,7 +19,7 @@
 Feature: Login Feature
   I want to use this feature file to test login page of OpenCart application
 
-  Background: Launch Application
+  Background: Launch the Application
     Given OpenCart Application Launched
 
   @Regression @Sanity
