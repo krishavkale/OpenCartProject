@@ -166,7 +166,7 @@ public class WebCommons {
 	}
 	
 
-	//Method to print custom messaged
+	//Method to print custom messaged .
 	public void report(String message) {
 	//	ExtentReports logMessage;
 	}
